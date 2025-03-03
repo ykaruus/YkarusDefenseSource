@@ -1,0 +1,19 @@
+{
+  "name": "ykarusdefense",
+  "version": "1.0.0",
+  "description": "A simple defense bot",
+  "main": "YkarusDefense.js",
+  "scripts": {
+    "test": "defenserun",
+    "defenserun": "node ."
+  },
+  "author": "YkarusDev",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.2",
+    "node-windows": "^1.0.0-beta.8",
+    "ps-list": "^3.0.0",
+    "screenshot-desktop": "^1.15.1"
+  },
+  "type": "commonjs"
+}
